@@ -32,62 +32,8 @@ API criada para atendimento da Tendenci no site e para salvar os dados do client
 
 └── chat.controller.js
 
-  
-
-##  Instalação
-
-  
-
-git clone https://github.com/guilhermeruj/botTendenci.git
-
-  
-
-##Entre no diretório
-
-  
-
-cd botTendenci
-
-  
-
-##Instale as dependências
-
-  
-
-npm install
-
-  
-
-##Execução
-
-  
-
-Para iniciar o servidor, execute:
-
-  
-
-npm start
-
-  
-
-O servidor estará rodando na porta 3030 ou na porta definida na variável de ambiente PORT.
-
-  
-
-#  Uso
-  **Rota**
-[POST /api/chats]
-Cria um novo chat.  
-
-##  Parâmetros da requisição:
-
-- nome: String 
-
-- telefone: String
-
-- assunto: String
-
-- Resposta: Retorna o objeto do chat criado.]
+## Uso 
+Entre em contato no email: *guilhermeruj@gmail.com* para solicitar uso.  
 
 ## Licença
 
