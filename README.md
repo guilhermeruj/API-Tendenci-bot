@@ -88,9 +88,9 @@ Cria um novo chat.
 - assunto: String
 
 - Resposta: Retorna o objeto do chat criado.]
-## Contribuição
-Por favor, leia o **CONTRIBUTING.md** para detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de pull.
 
-# Licença
-**All Rights Reserved**
-Consulte LINCESE.md
+## Licença
+
+Todos os direitos sobre este projeto estão reservados. Nenhuma permissão é concedida para uso, cópia, modificação ou distribuição do código-fonte, sem a autorização prévia por escrito do detentor dos direitos autorais.
+
+Para obter mais informações sobre a licença e solicitar permissão, entre em contato conosco através de [endereço de e-mail da equipe de desenvolvimento].
